@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> Отчет </title>
+</head>
+ <h1> 
+<body bgcolor=#DCDCDC text=#000000>
+  <table border="2px" align=center width=50%>
+    <thead>
+      <tr> 
+        <th> № </th>
+        <th> Название </th>
+        <th> Ip </th>
+        <th> В сети/не в сети </th>        
+        
+      </tr>
+     </thead>
+      <tr> 
+        <td> 1 </td>
+        <td> ТЭЦ-1 </td>
+        <td> 192.167.25.0 </td>
+        <td bgcolor=#99FF99> в сети </td>
+      </tr>
+       <tr> 
+        <td> 2 </td>
+        <td> ТЭЦ-2 </td>
+        <td> 192.167.25.1 </td>
+        <td bgcolor=#99FF99> в сети </td>
+      </tr>
+       <tr> 
+        <td> 3 </td>
+        <td> Котельная №2 </td>
+        <td> 192.167.25.2 </td>
+        <td bgcolor=#FF5050> не в сети </td>
+      </tr>
+       <tr> 
+        <td> 4 </td>
+        <td> Тепловые сети </td>
+        <td> 192.167.25.3 </td>
+        <td bgcolor=#99FF99> в сети </td>
+      </tr>
+</table>
+</body>
+</html>
